@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"github.com/goxjs/gl"
 	"github.com/goxjs/glfw"
-	"github.com/shibukawa/nanovgo"
-	"github.com/shibukawa/nanovgo/perfgraph"
-	"github.com/shibukawa/nanovgo/sample/demo"
+	"github.com/lzpel/nanovgo"
+	"github.com/lzpel/nanovgo/perfgraph"
+	"github.com/lzpel/nanovgo/sample/demo"
 	"log"
 )
 
